@@ -4,11 +4,11 @@
     min-height: 100vh;
 }
 
-
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 20px;
 
 }
 
@@ -16,19 +16,18 @@
     display: flex;
     gap: 16px;
 }
+
 .body1-info {
     display: flex;
     align-items: center;
     
 }
 
-.body2 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 .card{
     border-color: aqua;
     border: 5px solid blueviolet;
+    width: 200px;
+    height: 200px;
+    padding: 16px;
 }
-
