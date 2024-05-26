@@ -1,4 +1,4 @@
-.body1 {
+body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
     min-height: 100vh;
@@ -8,8 +8,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-
+    padding: 50px;
+    padding-bottom: 100px;
 }
 
 .right-links {
@@ -17,12 +17,20 @@
     gap: 16px;
 }
 
-.body1-info {
+.body1-content {
     display: flex;
     align-items: center;
-    
+    justify-content: center;
 }
 
+.opener{
+    font-size:x-large
+}
+.placeholder{
+    padding: 100px;
+    width: 300px;
+    background-color: gray;
+}
 
 .card{
     border-color: aqua;
