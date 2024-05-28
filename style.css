@@ -49,3 +49,20 @@ body {
     height: 200px;
     padding: 16px;
 }
+
+.body2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.body2-upper {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+.body2-info {
+    display: flex;
+    flex-wrap:wrap
+
+}
