@@ -21,6 +21,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 50px
+}
+
+.body1-text {
+    padding: 50px;
 }
 
 .opener{
