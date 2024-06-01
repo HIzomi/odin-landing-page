@@ -59,6 +59,7 @@ a{
     padding-bottom: 10px;
     border-radius: 5px;
     color: white;
+    border-color: white;
 }
 
 .placeholder{
@@ -122,4 +123,25 @@ a{
     font-size: x-large;
 }
 
-bod
+.body4 {
+    background-color: white;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+.card2 {
+    display: flex;
+    background-color: #3882f6;
+    color: white;
+    padding: 50px;
+    gap: 50px;
+}
+
+.body4-upper {
+    font-size: larger;
+    font-weight: bold;
+}
+.body4-upper {
+
+}
